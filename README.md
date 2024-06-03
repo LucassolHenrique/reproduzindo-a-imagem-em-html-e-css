@@ -10,4 +10,4 @@ descobri que o erro no javascript estava apenas na parte de ativar o main.js no 
 javascript dando erro
 
 dia 03/06 
-terminei o projeto tudo esta correto e perfeito
+terminei o projeto tudo esta correto e

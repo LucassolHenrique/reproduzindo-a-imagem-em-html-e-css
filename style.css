@@ -267,14 +267,14 @@ p[data-wifth="wide"] {
     width: 1.65rem;
     aspect-ratio: 1;
 
-    background-image: url("images/icon-hamburger.svg") ;
+    background-image: url("fem-manage-landing-page-part-9-master/images/icon-hamburger.svg") ;
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
   }
 
   .mobile-nav-toggle[aria-expanded="true"] {
-    background-image: url("images/icon-close.svg") ;
+    background-image: url("fem-manage-landing-page-part-9-master/images/icon-close.svg") ;
   }
 }
 
@@ -424,8 +424,8 @@ input:where([type="text"], [type="email"], ) {
   position: absolute;
   z-index: -1;
   inset: 0;
-  background-image: url('images/bg-tablet-pattern.svg'),
-  url("images/bg-tablet-pattern.svg");
+  background-image: url('fem-manage-landing-page-part-9-master/images/bg-tablet-pattern.svg'),
+  url("fem-manage-landing-page-part-9-master/images/bg-tablet-pattern.svg");
   background-position: -15rem -5rem, 80rem -42rem;
   background-repeat: no-repeat;
   opacity: 0.1;
@@ -615,7 +615,7 @@ input:where([type="text"], [type="email"], ) {
   max-height: 70vh;
   max-height: 70dvh;
   aspect-ratio: 1 / 1.2;
-  background-image: url("images/bg-tablet-pattern.svg");
+  background-image: url("fem-manage-landing-page-part-9-master/images/bg-tablet-pattern.svg");
   background-repeat: no-repeat;
   background-position: bottom left;
   /* border: 1px solid red; */
@@ -635,7 +635,7 @@ input:where([type="text"], [type="email"], ) {
 }
 
 .sales-points__blog::before {
-  content: url("images/bg-tablet-pattern.svg");
+  content: url("fem-manage-landing-page-part-9-master/images/bg-tablet-pattern.svg");
   position: absolute;
   zoom: 40%;
   z-index: -1;
