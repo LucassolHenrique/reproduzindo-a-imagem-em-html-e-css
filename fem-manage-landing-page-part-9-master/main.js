@@ -17,7 +17,7 @@ const slider = new A11YSlider(document.querySelector(".slider"), {
   arrows: false,
   responsive: {
     480: {
-      dots: false, // dots enabled 1280px and uppopo
+      dots: false, // doots enabled 1280px and uppopo
     },
   },
 });
